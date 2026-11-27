@@ -2,6 +2,8 @@
 
 Stop typing your admin password into macOS authorization dialogs. Press **⌘V** instead.
 
+![demo: the authorization dialog is already armed, ⌘V, done](docs/demo.gif)
+
 When macOS shows its system authorization prompt (`SecurityAgent` — "X wants to make changes"),
 `adminpaste` has already put your admin password in the clipboard (without the concealed-type
 flag, so clipboard-history utilities ignore it). You press ⌘V, hit return, done. When the dialog

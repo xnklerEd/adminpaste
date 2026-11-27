@@ -5,6 +5,8 @@
 
 不需要管理员权限、不需要关 SIP、不需要 Karabiner、不需要辅助功能权限。密码只存在登录钥匙串里。
 
+![演示：授权框弹出时密码已在剪贴板，按 ⌘V 即可](docs/demo.gif)
+
 ## 为什么只能做到"你按 ⌘V"
 
 macOS 对授权框的密码框启用了 Secure Keyboard Entry：任何进程注入的按键（AppleScript
