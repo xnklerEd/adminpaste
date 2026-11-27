@@ -1,0 +1,6 @@
+adminpaste
+.ap-arm64
+.ap-x86_64
+*.zip
+.DS_Store
+__pycache__/
